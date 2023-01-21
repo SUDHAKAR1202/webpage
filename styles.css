@@ -1,0 +1,2887 @@
+ body {
+  margin: 0;
+  padding: 0;
+ }
+ 
+ #background 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: relative; 
+	 margin-left: auto; 
+	 margin-right: auto; 
+	 width: 1400px;
+	 height: 3890px; 
+	 overflow: hidden;
+	 z-index:0;
+	} 
+
+ #Background 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: absolute; 
+	 width: 1400px;
+	 height: 3890px;
+	 z-index:1;
+} 
+
+ #Shape91 
+{ 
+	 left: -1px; 
+	 top: 3663px; 
+	 position: absolute; 
+	 width: 1402px;
+	 height: 218px;
+	 z-index:2;
+} 
+
+ #Shape91copy 
+{ 
+	 left: -1px; 
+	 top: 3879px; 
+	 position: absolute; 
+	 width: 1402px;
+	 height: 13px;
+	 z-index:3;
+} 
+
+ #2019HomeocareInterna 
+{ 
+	 left: 507px; 
+	 top: 3839px; 
+	 position: absolute; 
+	 width: 386px;
+	 height: 14px;
+	 z-index:4;
+} 
+
+ #Shape188 
+{ 
+	 left: 114px; 
+	 top: 3523px; 
+	 position: absolute; 
+	 width: 1172px;
+	 height: 285px;
+	 z-index:5;
+} 
+
+ #Shape93copy3 
+{ 
+	 left: 398px; 
+	 top: 3589px; 
+	 position: absolute; 
+	 width: 4px;
+	 height: 154px;
+	 z-index:6;
+} 
+
+ #CorporateAddress 
+{ 
+	 left: 150px; 
+	 top: 3591px; 
+	 position: absolute; 
+	 width: 199px;
+	 height: 19px;
+	 z-index:7;
+} 
+
+ #SPRoadBegumpetHydera 
+{ 
+	 left: 185px; 
+	 top: 3675px; 
+	 position: absolute; 
+	 width: 141px;
+	 height: 49px;
+	 z-index:8;
+} 
+
+ #Shape1 
+{ 
+	 left: 147px; 
+	 top: 3673px; 
+	 position: absolute; 
+	 width: 30px;
+	 height: 37px;
+	 z-index:9;
+} 
+
+ #HomeocareInternation 
+{ 
+	 left: 150px; 
+	 top: 3632px; 
+	 position: absolute; 
+	 width: 195px;
+	 height: 29px;
+	 z-index:10;
+} 
+
+ #Shape94 
+{ 
+	 left: 148px; 
+	 top: 3615px; 
+	 position: absolute; 
+	 width: 48px;
+	 height: 6px;
+	 z-index:11;
+} 
+
+ #Shape93copy3_0 
+{ 
+	 left: 694px; 
+	 top: 3589px; 
+	 position: absolute; 
+	 width: 4px;
+	 height: 154px;
+	 z-index:12;
+} 
+
+ #ContactUs 
+{ 
+	 left: 446px; 
+	 top: 3591px; 
+	 position: absolute; 
+	 width: 117px;
+	 height: 15px;
+	 z-index:13;
+} 
+
+ #TollFree18001022202 
+{ 
+	 left: 446px; 
+	 top: 3631px; 
+	 position: absolute; 
+	 width: 208px;
+	 height: 13px;
+	 z-index:14;
+} 
+
+ #Emailonlinehomeocare 
+{ 
+	 left: 447px; 
+	 top: 3654px; 
+	 position: absolute; 
+	 width: 209px;
+	 height: 12px;
+	 z-index:15;
+} 
+
+ #Shape94_0 
+{ 
+	 left: 444px; 
+	 top: 3615px; 
+	 position: absolute; 
+	 width: 48px;
+	 height: 6px;
+	 z-index:16;
+} 
+
+ #ConnectWithUs 
+{ 
+	 left: 446px; 
+	 top: 3685px; 
+	 position: absolute; 
+	 width: 87px;
+	 height: 8px;
+	 z-index:17;
+} 
+
+ #Shape113 
+{ 
+	 left: 444px; 
+	 top: 3698px; 
+	 position: absolute; 
+	 width: 33px;
+	 height: 33px;
+	 z-index:18;
+} 
+
+ #Forma1 
+{ 
+	 left: 455px; 
+	 top: 3705px; 
+	 position: absolute; 
+	 width: 11px;
+	 height: 19px;
+	 z-index:19;
+} 
+
+ #Shape113copy 
+{ 
+	 left: 478px; 
+	 top: 3698px; 
+	 position: absolute; 
+	 width: 32px;
+	 height: 33px;
+	 z-index:20;
+} 
+
+ #Forma1_0 
+{ 
+	 left: 485px; 
+	 top: 3708px; 
+	 position: absolute; 
+	 width: 18px;
+	 height: 14px;
+	 z-index:21;
+} 
+
+ #Shape113copy2 
+{ 
+	 left: 512px; 
+	 top: 3698px; 
+	 position: absolute; 
+	 width: 32px;
+	 height: 33px;
+	 z-index:22;
+} 
+
+ #Forma1copy2 
+{ 
+	 left: 518px; 
+	 top: 3707px; 
+	 position: absolute; 
+	 width: 20px;
+	 height: 15px;
+	 z-index:23;
+} 
+
+ #Shape113copy3 
+{ 
+	 left: 545px; 
+	 top: 3698px; 
+	 position: absolute; 
+	 width: 33px;
+	 height: 33px;
+	 z-index:24;
+} 
+
+ #Forma1_1 
+{ 
+	 left: 552px; 
+	 top: 3705px; 
+	 position: absolute; 
+	 width: 19px;
+	 height: 19px;
+	 z-index:25;
+} 
+
+ #Shape93copy3_1 
+{ 
+	 left: 918px; 
+	 top: 3589px; 
+	 position: absolute; 
+	 width: 4px;
+	 height: 154px;
+	 z-index:26;
+} 
+
+ #Branches 
+{ 
+	 left: 743px; 
+	 top: 3591px; 
+	 position: absolute; 
+	 width: 96px;
+	 height: 15px;
+	 z-index:27;
+} 
+
+ #Shape94_1 
+{ 
+	 left: 740px; 
+	 top: 3615px; 
+	 position: absolute; 
+	 width: 48px;
+	 height: 6px;
+	 z-index:28;
+} 
+
+ #TelanganaAndhraPrade 
+{ 
+	 left: 758px; 
+	 top: 3632px; 
+	 position: absolute; 
+	 width: 107px;
+	 height: 113px;
+	 z-index:29;
+} 
+
+ #Shape187 
+{ 
+	 left: 741px; 
+	 top: 3631px; 
+	 position: absolute; 
+	 width: 12px;
+	 height: 12px;
+	 z-index:30;
+} 
+
+ #Shape187copy 
+{ 
+	 left: 741px; 
+	 top: 3656px; 
+	 position: absolute; 
+	 width: 12px;
+	 height: 12px;
+	 z-index:31;
+} 
+
+ #Shape187copy2 
+{ 
+	 left: 741px; 
+	 top: 3681px; 
+	 position: absolute; 
+	 width: 12px;
+	 height: 12px;
+	 z-index:32;
+} 
+
+ #Shape187copy3 
+{ 
+	 left: 741px; 
+	 top: 3706px; 
+	 position: absolute; 
+	 width: 12px;
+	 height: 12px;
+	 z-index:33;
+} 
+
+ #Shape187copy4 
+{ 
+	 left: 741px; 
+	 top: 3731px; 
+	 position: absolute; 
+	 width: 12px;
+	 height: 12px;
+	 z-index:34;
+} 
+
+ #QuickLinks 
+{ 
+	 left: 966px; 
+	 top: 3591px; 
+	 position: absolute; 
+	 width: 118px;
+	 height: 20px;
+	 z-index:35;
+} 
+
+ #Shape94_2 
+{ 
+	 left: 964px; 
+	 top: 3615px; 
+	 position: absolute; 
+	 width: 48px;
+	 height: 6px;
+	 z-index:36;
+} 
+
+ #HappyPatientsFeedbac 
+{ 
+	 left: 983px; 
+	 top: 3632px; 
+	 position: absolute; 
+	 width: 101px;
+	 height: 113px;
+	 z-index:37;
+} 
+
+ #Shape187_0 
+{ 
+	 left: 965px; 
+	 top: 3631px; 
+	 position: absolute; 
+	 width: 12px;
+	 height: 12px;
+	 z-index:38;
+} 
+
+ #Shape187copy_0 
+{ 
+	 left: 965px; 
+	 top: 3656px; 
+	 position: absolute; 
+	 width: 12px;
+	 height: 12px;
+	 z-index:39;
+} 
+
+ #Shape187copy2_0 
+{ 
+	 left: 965px; 
+	 top: 3681px; 
+	 position: absolute; 
+	 width: 12px;
+	 height: 12px;
+	 z-index:40;
+} 
+
+ #Shape187copy3_0 
+{ 
+	 left: 965px; 
+	 top: 3706px; 
+	 position: absolute; 
+	 width: 12px;
+	 height: 12px;
+	 z-index:41;
+} 
+
+ #Shape187copy4_0 
+{ 
+	 left: 965px; 
+	 top: 3731px; 
+	 position: absolute; 
+	 width: 12px;
+	 height: 12px;
+	 z-index:42;
+} 
+
+ #PhotoGalleryVideosEv 
+{ 
+	 left: 1144px; 
+	 top: 3632px; 
+	 position: absolute; 
+	 width: 103px;
+	 height: 113px;
+	 z-index:43;
+} 
+
+ #Shape187copy5 
+{ 
+	 left: 1127px; 
+	 top: 3631px; 
+	 position: absolute; 
+	 width: 12px;
+	 height: 12px;
+	 z-index:44;
+} 
+
+ #Shape187copy5_0 
+{ 
+	 left: 1127px; 
+	 top: 3656px; 
+	 position: absolute; 
+	 width: 12px;
+	 height: 12px;
+	 z-index:45;
+} 
+
+ #Shape187copy5_1 
+{ 
+	 left: 1127px; 
+	 top: 3681px; 
+	 position: absolute; 
+	 width: 12px;
+	 height: 12px;
+	 z-index:46;
+} 
+
+ #Shape187copy5_2 
+{ 
+	 left: 1127px; 
+	 top: 3706px; 
+	 position: absolute; 
+	 width: 12px;
+	 height: 12px;
+	 z-index:47;
+} 
+
+ #Shape187copy5_3 
+{ 
+	 left: 1127px; 
+	 top: 3731px; 
+	 position: absolute; 
+	 width: 12px;
+	 height: 12px;
+	 z-index:48;
+} 
+
+ #layer_49 
+{ 
+	 left: 150px; 
+	 top: 3553px; 
+	 position: absolute; 
+	 width: 1100px;
+	 height: 3px;
+	 z-index:49;
+} 
+
+ #layer_50 
+{ 
+	 left: 150px; 
+	 top: 3776px; 
+	 position: absolute; 
+	 width: 1100px;
+	 height: 3px;
+	 z-index:50;
+} 
+
+ #OurCelebrities 
+{ 
+	 left: 587px; 
+	 top: 3133px; 
+	 position: absolute; 
+	 width: 226px;
+	 height: 23px;
+	 z-index:51;
+} 
+
+ #Shape157copy6 
+{ 
+	 left: -188px; 
+	 top: 3147px; 
+	 position: absolute; 
+	 width: 264px;
+	 height: 265px;
+	 z-index:52;
+} 
+
+ #Shape157copy6_0 
+{ 
+	 left: 1323px; 
+	 top: 3147px; 
+	 position: absolute; 
+	 width: 265px;
+	 height: 265px;
+	 z-index:53;
+} 
+
+ #Shape143copy 
+{ 
+	 left: 1303px; 
+	 top: 3253px; 
+	 position: absolute; 
+	 width: 55px;
+	 height: 55px;
+	 z-index:54;
+} 
+
+ #Forma1copy4 
+{ 
+	 left: 1320px; 
+	 top: 3272px; 
+	 position: absolute; 
+	 width: 20px;
+	 height: 17px;
+	 z-index:55;
+} 
+
+ #Shape143copy2 
+{ 
+	 left: 43px; 
+	 top: 3253px; 
+	 position: absolute; 
+	 width: 54px;
+	 height: 55px;
+	 z-index:56;
+} 
+
+ #Forma1copy5 
+{ 
+	 left: 60px; 
+	 top: 3272px; 
+	 position: absolute; 
+	 width: 20px;
+	 height: 17px;
+	 z-index:57;
+} 
+
+ #Shape184 
+{ 
+	 left: 113px; 
+	 top: 3189px; 
+	 position: absolute; 
+	 width: 182px;
+	 height: 182px;
+	 z-index:58;
+} 
+
+ #Layer75 
+{ 
+	 left: 114px; 
+	 top: 3190px; 
+	 position: absolute; 
+	 width: 180px;
+	 height: 189px;
+	 z-index:59;
+} 
+
+ #Shape184copy4 
+{ 
+	 left: 113px; 
+	 top: 3189px; 
+	 position: absolute; 
+	 width: 182px;
+	 height: 182px;
+	 z-index:60;
+} 
+
+ #puneethrajkumar 
+{ 
+	 left: 123px; 
+	 top: 3384px; 
+	 position: absolute; 
+	 width: 163px;
+	 height: 14px;
+	 z-index:61;
+} 
+
+ #Shape184_0 
+{ 
+	 left: 311px; 
+	 top: 3189px; 
+	 position: absolute; 
+	 width: 182px;
+	 height: 182px;
+	 z-index:62;
+} 
+
+ #Layer76 
+{ 
+	 left: 312px; 
+	 top: 3190px; 
+	 position: absolute; 
+	 width: 180px;
+	 height: 182px;
+	 z-index:63;
+} 
+
+ #Shape184copy4_0 
+{ 
+	 left: 311px; 
+	 top: 3189px; 
+	 position: absolute; 
+	 width: 182px;
+	 height: 182px;
+	 z-index:64;
+} 
+
+ #JagapathiBabu 
+{ 
+	 left: 335px; 
+	 top: 3384px; 
+	 position: absolute; 
+	 width: 134px;
+	 height: 14px;
+	 z-index:65;
+} 
+
+ #Shape184_1 
+{ 
+	 left: 509px; 
+	 top: 3189px; 
+	 position: absolute; 
+	 width: 182px;
+	 height: 182px;
+	 z-index:66;
+} 
+
+ #Layer77 
+{ 
+	 left: 511px; 
+	 top: 3190px; 
+	 position: absolute; 
+	 width: 179px;
+	 height: 199px;
+	 z-index:67;
+} 
+
+ #Shape184copy4_1 
+{ 
+	 left: 509px; 
+	 top: 3189px; 
+	 position: absolute; 
+	 width: 182px;
+	 height: 182px;
+	 z-index:68;
+} 
+
+ #Sneha 
+{ 
+	 left: 573px; 
+	 top: 3384px; 
+	 position: absolute; 
+	 width: 55px;
+	 height: 11px;
+	 z-index:69;
+} 
+
+ #Shape184_2 
+{ 
+	 left: 709px; 
+	 top: 3189px; 
+	 position: absolute; 
+	 width: 182px;
+	 height: 182px;
+	 z-index:70;
+} 
+
+ #Layer78 
+{ 
+	 left: 710px; 
+	 top: 3191px; 
+	 position: absolute; 
+	 width: 180px;
+	 height: 180px;
+	 z-index:71;
+} 
+
+ #Shape184copy4_2 
+{ 
+	 left: 709px; 
+	 top: 3189px; 
+	 position: absolute; 
+	 width: 182px;
+	 height: 182px;
+	 z-index:72;
+} 
+
+ #DeekshaSeth 
+{ 
+	 left: 742px; 
+	 top: 3384px; 
+	 position: absolute; 
+	 width: 116px;
+	 height: 11px;
+	 z-index:73;
+} 
+
+ #Shape184_3 
+{ 
+	 left: 907px; 
+	 top: 3189px; 
+	 position: absolute; 
+	 width: 182px;
+	 height: 182px;
+	 z-index:74;
+} 
+
+ #Layer79 
+{ 
+	 left: 908px; 
+	 top: 3190px; 
+	 position: absolute; 
+	 width: 179px;
+	 height: 182px;
+	 z-index:75;
+} 
+
+ #Shape184copy4_3 
+{ 
+	 left: 907px; 
+	 top: 3189px; 
+	 position: absolute; 
+	 width: 182px;
+	 height: 182px;
+	 z-index:76;
+} 
+
+ #SudheerBabu 
+{ 
+	 left: 938px; 
+	 top: 3384px; 
+	 position: absolute; 
+	 width: 120px;
+	 height: 11px;
+	 z-index:77;
+} 
+
+ #Shape184_4 
+{ 
+	 left: 1105px; 
+	 top: 3189px; 
+	 position: absolute; 
+	 width: 182px;
+	 height: 182px;
+	 z-index:78;
+} 
+
+ #Layer80 
+{ 
+	 left: 1106px; 
+	 top: 3190px; 
+	 position: absolute; 
+	 width: 180px;
+	 height: 180px;
+	 z-index:79;
+} 
+
+ #Shape184copy4_4 
+{ 
+	 left: 1105px; 
+	 top: 3189px; 
+	 position: absolute; 
+	 width: 182px;
+	 height: 182px;
+	 z-index:80;
+} 
+
+ #HarshikaPoonacha 
+{ 
+	 left: 1108px; 
+	 top: 3384px; 
+	 position: absolute; 
+	 width: 177px;
+	 height: 11px;
+	 z-index:81;
+} 
+
+ #Shape185 
+{ 
+	 left: 439px; 
+	 top: 3454px; 
+	 position: absolute; 
+	 width: 522px;
+	 height: 51px;
+	 z-index:82;
+} 
+
+ #DisclaimerResultsmay 
+{ 
+	 left: 477px; 
+	 top: 3475px; 
+	 position: absolute; 
+	 width: 446px;
+	 height: 10px;
+	 z-index:83;
+} 
+
+ #Shape153copy 
+{ 
+	 left: -1px; 
+	 top: 2626px; 
+	 position: absolute; 
+	 width: 1402px;
+	 height: 449px;
+	 z-index:84;
+} 
+
+ #Shape157copy5 
+{ 
+	 left: -188px; 
+	 top: 2722px; 
+	 position: absolute; 
+	 width: 264px;
+	 height: 265px;
+	 z-index:85;
+} 
+
+ #Shape157copy5_0 
+{ 
+	 left: 1323px; 
+	 top: 2722px; 
+	 position: absolute; 
+	 width: 265px;
+	 height: 265px;
+	 z-index:86;
+} 
+
+ #Shape143copy_0 
+{ 
+	 left: 1303px; 
+	 top: 2828px; 
+	 position: absolute; 
+	 width: 55px;
+	 height: 55px;
+	 z-index:87;
+} 
+
+ #Forma1copy4_0 
+{ 
+	 left: 1320px; 
+	 top: 2847px; 
+	 position: absolute; 
+	 width: 20px;
+	 height: 17px;
+	 z-index:88;
+} 
+
+ #Shape143copy2_0 
+{ 
+	 left: 43px; 
+	 top: 2828px; 
+	 position: absolute; 
+	 width: 54px;
+	 height: 55px;
+	 z-index:89;
+} 
+
+ #Forma1copy5_0 
+{ 
+	 left: 60px; 
+	 top: 2847px; 
+	 position: absolute; 
+	 width: 20px;
+	 height: 17px;
+	 z-index:90;
+} 
+
+ #Shape182 
+{ 
+	 left: 113px; 
+	 top: 2739px; 
+	 position: absolute; 
+	 width: 573px;
+	 height: 231px;
+	 z-index:91;
+} 
+
+ #ImsufferedwithRheuma 
+{ 
+	 left: 265px; 
+	 top: 2781px; 
+	 position: absolute; 
+	 width: 357px;
+	 height: 86px;
+	 z-index:92;
+} 
+
+ #Shape180 
+{ 
+	 left: 143px; 
+	 top: 2775px; 
+	 position: absolute; 
+	 width: 105px;
+	 height: 105px;
+	 z-index:93;
+} 
+
+ #Layer70 
+{ 
+	 left: 142px; 
+	 top: 2776px; 
+	 position: absolute; 
+	 width: 106px;
+	 height: 106px;
+	 z-index:94;
+} 
+
+ #Shape181 
+{ 
+	 left: 264px; 
+	 top: 2882px; 
+	 position: absolute; 
+	 width: 259px;
+	 height: 4px;
+	 z-index:95;
+} 
+
+ #Lakshmi 
+{ 
+	 left: 266px; 
+	 top: 2900px; 
+	 position: absolute; 
+	 width: 64px;
+	 height: 11px;
+	 z-index:96;
+} 
+
+ #IDNOAKLA50Arthritis 
+{ 
+	 left: 266px; 
+	 top: 2919px; 
+	 position: absolute; 
+	 width: 151px;
+	 height: 12px;
+	 z-index:97;
+} 
+
+ #Shape182_0 
+{ 
+	 left: 713px; 
+	 top: 2739px; 
+	 position: absolute; 
+	 width: 573px;
+	 height: 231px;
+	 z-index:98;
+} 
+
+ #IfeltveryhappywhenIw 
+{ 
+	 left: 866px; 
+	 top: 2781px; 
+	 position: absolute; 
+	 width: 365px;
+	 height: 83px;
+	 z-index:99;
+} 
+
+ #Shape180_0 
+{ 
+	 left: 743px; 
+	 top: 2775px; 
+	 position: absolute; 
+	 width: 105px;
+	 height: 105px;
+	 z-index:100;
+} 
+
+ #Layer71 
+{ 
+	 left: 742px; 
+	 top: 2779px; 
+	 position: absolute; 
+	 width: 108px;
+	 height: 108px;
+	 z-index:101;
+} 
+
+ #Shape181_0 
+{ 
+	 left: 864px; 
+	 top: 2882px; 
+	 position: absolute; 
+	 width: 259px;
+	 height: 4px;
+	 z-index:102;
+} 
+
+ #MVSubbarayudu 
+{ 
+	 left: 866px; 
+	 top: 2900px; 
+	 position: absolute; 
+	 width: 146px;
+	 height: 14px;
+	 z-index:103;
+} 
+
+ #IDNODSNBD64Spondylos 
+{ 
+	 left: 866px; 
+	 top: 2919px; 
+	 position: absolute; 
+	 width: 191px;
+	 height: 13px;
+	 z-index:104;
+} 
+
+ #Testimonials 
+{ 
+	 left: 606px; 
+	 top: 2688px; 
+	 position: absolute; 
+	 width: 188px;
+	 height: 23px;
+	 z-index:105;
+} 
+
+ #Shape183 
+{ 
+	 left: 665px; 
+	 top: 2998px; 
+	 position: absolute; 
+	 width: 16px;
+	 height: 16px;
+	 z-index:106;
+} 
+
+ #Shape183copy 
+{ 
+	 left: 683px; 
+	 top: 2998px; 
+	 position: absolute; 
+	 width: 16px;
+	 height: 16px;
+	 z-index:107;
+} 
+
+ #Shape183copy2 
+{ 
+	 left: 701px; 
+	 top: 2998px; 
+	 position: absolute; 
+	 width: 16px;
+	 height: 16px;
+	 z-index:108;
+} 
+
+ #Shape183copy3 
+{ 
+	 left: 719px; 
+	 top: 2998px; 
+	 position: absolute; 
+	 width: 16px;
+	 height: 16px;
+	 z-index:109;
+} 
+
+ #Shape176 
+{ 
+	 left: -1px; 
+	 top: 2034px; 
+	 position: absolute; 
+	 width: 1402px;
+	 height: 4px;
+	 z-index:110;
+} 
+
+ #WhyHomeocareInternat 
+{ 
+	 left: 473px; 
+	 top: 2097px; 
+	 position: absolute; 
+	 width: 454px;
+	 height: 29px;
+	 z-index:111;
+} 
+
+ #Shape178 
+{ 
+	 left: 113px; 
+	 top: 2149px; 
+	 position: absolute; 
+	 width: 281px;
+	 height: 269px;
+	 z-index:112;
+} 
+
+ #ServingFrom36Years 
+{ 
+	 left: 181px; 
+	 top: 2361px; 
+	 position: absolute; 
+	 width: 145px;
+	 height: 35px;
+	 z-index:113;
+} 
+
+ #Shape177 
+{ 
+	 left: 125px; 
+	 top: 2160px; 
+	 position: absolute; 
+	 width: 257px;
+	 height: 182px;
+	 z-index:114;
+} 
+
+ #VectorSmartObject 
+{ 
+	 left: 199px; 
+	 top: 2196px; 
+	 position: absolute; 
+	 width: 110px;
+	 height: 110px;
+	 z-index:115;
+} 
+
+ #Shape2 
+{ 
+	 left: 207px; 
+	 top: 2204px; 
+	 position: absolute; 
+	 width: 94px;
+	 height: 94px;
+	 z-index:116;
+} 
+
+ #VectorSmartObject_0 
+{ 
+	 left: 227px; 
+	 top: 2232px; 
+	 position: absolute; 
+	 width: 54px;
+	 height: 38px;
+	 z-index:117;
+} 
+
+ #Forma1_2 
+{ 
+	 left: 248px; 
+	 top: 2208px; 
+	 position: absolute; 
+	 width: 14px;
+	 height: 14px;
+	 z-index:118;
+} 
+
+ #Forma1copy 
+{ 
+	 left: 261px; 
+	 top: 2212px; 
+	 position: absolute; 
+	 width: 13px;
+	 height: 13px;
+	 z-index:119;
+} 
+
+ #Forma1copy3 
+{ 
+	 left: 235px; 
+	 top: 2212px; 
+	 position: absolute; 
+	 width: 13px;
+	 height: 13px;
+	 z-index:120;
+} 
+
+ #Forma1copy6 
+{ 
+	 left: 273px; 
+	 top: 2219px; 
+	 position: absolute; 
+	 width: 13px;
+	 height: 12px;
+	 z-index:121;
+} 
+
+ #Forma1copy6_0 
+{ 
+	 left: 224px; 
+	 top: 2219px; 
+	 position: absolute; 
+	 width: 13px;
+	 height: 12px;
+	 z-index:122;
+} 
+
+ #years 
+{ 
+	 left: 237px; 
+	 top: 2275px; 
+	 position: absolute; 
+	 width: 34px;
+	 height: 8px;
+	 z-index:123;
+} 
+
+ #Shape178_0 
+{ 
+	 left: 411px; 
+	 top: 2149px; 
+	 position: absolute; 
+	 width: 281px;
+	 height: 269px;
+	 z-index:124;
+} 
+
+ #300Doctors 
+{ 
+	 left: 480px; 
+	 top: 2361px; 
+	 position: absolute; 
+	 width: 144px;
+	 height: 14px;
+	 z-index:125;
+} 
+
+ #Shape177_0 
+{ 
+	 left: 422px; 
+	 top: 2160px; 
+	 position: absolute; 
+	 width: 258px;
+	 height: 182px;
+	 z-index:126;
+} 
+
+ #Capa1 
+{ 
+	 left: 574px; 
+	 top: 2232px; 
+	 position: absolute; 
+	 width: 50px;
+	 height: 63px;
+	 z-index:127;
+} 
+
+ #Capa1copy 
+{ 
+	 left: 478px; 
+	 top: 2232px; 
+	 position: absolute; 
+	 width: 50px;
+	 height: 63px;
+	 z-index:128;
+} 
+
+ #Capa1_0 
+{ 
+	 left: 514px; 
+	 top: 2204px; 
+	 position: absolute; 
+	 width: 73px;
+	 height: 92px;
+	 z-index:129;
+} 
+
+ #Shape179 
+{ 
+	 left: 518px; 
+	 top: 2293px; 
+	 position: absolute; 
+	 width: 64px;
+	 height: 5px;
+	 z-index:130;
+} 
+
+ #Shape178_1 
+{ 
+	 left: 709px; 
+	 top: 2149px; 
+	 position: absolute; 
+	 width: 280px;
+	 height: 269px;
+	 z-index:131;
+} 
+
+ #50Clinics 
+{ 
+	 left: 792px; 
+	 top: 2361px; 
+	 position: absolute; 
+	 width: 114px;
+	 height: 14px;
+	 z-index:132;
+} 
+
+ #Shape177_1 
+{ 
+	 left: 720px; 
+	 top: 2160px; 
+	 position: absolute; 
+	 width: 257px;
+	 height: 182px;
+	 z-index:133;
+} 
+
+ #VectorSmartObject_1 
+{ 
+	 left: 794px; 
+	 top: 2196px; 
+	 position: absolute; 
+	 width: 110px;
+	 height: 110px;
+	 z-index:134;
+} 
+
+ #Shape2_0 
+{ 
+	 left: 802px; 
+	 top: 2204px; 
+	 position: absolute; 
+	 width: 94px;
+	 height: 94px;
+	 z-index:135;
+} 
+
+ #VectorSmartObject_2 
+{ 
+	 left: 822px; 
+	 top: 2232px; 
+	 position: absolute; 
+	 width: 53px;
+	 height: 38px;
+	 z-index:136;
+} 
+
+ #Forma1_3 
+{ 
+	 left: 843px; 
+	 top: 2208px; 
+	 position: absolute; 
+	 width: 14px;
+	 height: 14px;
+	 z-index:137;
+} 
+
+ #Forma1copy_0 
+{ 
+	 left: 856px; 
+	 top: 2212px; 
+	 position: absolute; 
+	 width: 13px;
+	 height: 13px;
+	 z-index:138;
+} 
+
+ #Forma1copy3_0 
+{ 
+	 left: 830px; 
+	 top: 2212px; 
+	 position: absolute; 
+	 width: 13px;
+	 height: 13px;
+	 z-index:139;
+} 
+
+ #Forma1copy6_1 
+{ 
+	 left: 868px; 
+	 top: 2219px; 
+	 position: absolute; 
+	 width: 13px;
+	 height: 12px;
+	 z-index:140;
+} 
+
+ #Forma1copy6_2 
+{ 
+	 left: 819px; 
+	 top: 2219px; 
+	 position: absolute; 
+	 width: 13px;
+	 height: 12px;
+	 z-index:141;
+} 
+
+ #layer_142 
+{ 
+	 left: 842px; 
+	 top: 2271px; 
+	 position: absolute; 
+	 width: 13px;
+	 height: 13px;
+	 z-index:142;
+} 
+
+ #Shape178_2 
+{ 
+	 left: 1006px; 
+	 top: 2149px; 
+	 position: absolute; 
+	 width: 281px;
+	 height: 269px;
+	 z-index:143;
+} 
+
+ #15MillionTreated 
+{ 
+	 left: 1087px; 
+	 top: 2361px; 
+	 position: absolute; 
+	 width: 120px;
+	 height: 35px;
+	 z-index:144;
+} 
+
+ #Shape177_2 
+{ 
+	 left: 1017px; 
+	 top: 2160px; 
+	 position: absolute; 
+	 width: 258px;
+	 height: 182px;
+	 z-index:145;
+} 
+
+ #Capa1_1 
+{ 
+	 left: 1092px; 
+	 top: 2205px; 
+	 position: absolute; 
+	 width: 108px;
+	 height: 92px;
+	 z-index:146;
+} 
+
+ #Shape178_3 
+{ 
+	 left: 113px; 
+	 top: 2149px; 
+	 position: absolute; 
+	 width: 281px;
+	 height: 269px;
+	 z-index:147;
+} 
+
+ #ServingFrom36Years_0 
+{ 
+	 left: 181px; 
+	 top: 2361px; 
+	 position: absolute; 
+	 width: 145px;
+	 height: 35px;
+	 z-index:148;
+} 
+
+ #Shape177_3 
+{ 
+	 left: 125px; 
+	 top: 2160px; 
+	 position: absolute; 
+	 width: 257px;
+	 height: 182px;
+	 z-index:149;
+} 
+
+ #VectorSmartObject_3 
+{ 
+	 left: 199px; 
+	 top: 2196px; 
+	 position: absolute; 
+	 width: 110px;
+	 height: 110px;
+	 z-index:150;
+} 
+
+ #Shape2_1 
+{ 
+	 left: 207px; 
+	 top: 2204px; 
+	 position: absolute; 
+	 width: 94px;
+	 height: 94px;
+	 z-index:151;
+} 
+
+ #VectorSmartObject_4 
+{ 
+	 left: 227px; 
+	 top: 2232px; 
+	 position: absolute; 
+	 width: 54px;
+	 height: 38px;
+	 z-index:152;
+} 
+
+ #Forma1_4 
+{ 
+	 left: 248px; 
+	 top: 2208px; 
+	 position: absolute; 
+	 width: 14px;
+	 height: 14px;
+	 z-index:153;
+} 
+
+ #Forma1copy_1 
+{ 
+	 left: 261px; 
+	 top: 2212px; 
+	 position: absolute; 
+	 width: 13px;
+	 height: 13px;
+	 z-index:154;
+} 
+
+ #Forma1copy3_1 
+{ 
+	 left: 235px; 
+	 top: 2212px; 
+	 position: absolute; 
+	 width: 13px;
+	 height: 13px;
+	 z-index:155;
+} 
+
+ #Forma1copy6_3 
+{ 
+	 left: 273px; 
+	 top: 2219px; 
+	 position: absolute; 
+	 width: 13px;
+	 height: 12px;
+	 z-index:156;
+} 
+
+ #Forma1copy6_4 
+{ 
+	 left: 224px; 
+	 top: 2219px; 
+	 position: absolute; 
+	 width: 13px;
+	 height: 12px;
+	 z-index:157;
+} 
+
+ #years_0 
+{ 
+	 left: 237px; 
+	 top: 2275px; 
+	 position: absolute; 
+	 width: 34px;
+	 height: 8px;
+	 z-index:158;
+} 
+
+ #Shape178_4 
+{ 
+	 left: 411px; 
+	 top: 2149px; 
+	 position: absolute; 
+	 width: 281px;
+	 height: 269px;
+	 z-index:159;
+} 
+
+ #300Doctors_0 
+{ 
+	 left: 480px; 
+	 top: 2361px; 
+	 position: absolute; 
+	 width: 144px;
+	 height: 14px;
+	 z-index:160;
+} 
+
+ #Shape177_4 
+{ 
+	 left: 422px; 
+	 top: 2160px; 
+	 position: absolute; 
+	 width: 258px;
+	 height: 182px;
+	 z-index:161;
+} 
+
+ #Capa1_2 
+{ 
+	 left: 574px; 
+	 top: 2232px; 
+	 position: absolute; 
+	 width: 50px;
+	 height: 63px;
+	 z-index:162;
+} 
+
+ #Capa1copy_0 
+{ 
+	 left: 478px; 
+	 top: 2232px; 
+	 position: absolute; 
+	 width: 50px;
+	 height: 63px;
+	 z-index:163;
+} 
+
+ #Capa1_3 
+{ 
+	 left: 514px; 
+	 top: 2204px; 
+	 position: absolute; 
+	 width: 73px;
+	 height: 92px;
+	 z-index:164;
+} 
+
+ #Shape179_0 
+{ 
+	 left: 518px; 
+	 top: 2293px; 
+	 position: absolute; 
+	 width: 64px;
+	 height: 5px;
+	 z-index:165;
+} 
+
+ #Shape178_5 
+{ 
+	 left: 709px; 
+	 top: 2149px; 
+	 position: absolute; 
+	 width: 280px;
+	 height: 269px;
+	 z-index:166;
+} 
+
+ #50Clinics_0 
+{ 
+	 left: 792px; 
+	 top: 2361px; 
+	 position: absolute; 
+	 width: 114px;
+	 height: 14px;
+	 z-index:167;
+} 
+
+ #Shape177_5 
+{ 
+	 left: 720px; 
+	 top: 2160px; 
+	 position: absolute; 
+	 width: 257px;
+	 height: 182px;
+	 z-index:168;
+} 
+
+ #VectorSmartObject_5 
+{ 
+	 left: 794px; 
+	 top: 2196px; 
+	 position: absolute; 
+	 width: 110px;
+	 height: 110px;
+	 z-index:169;
+} 
+
+ #Shape2_2 
+{ 
+	 left: 802px; 
+	 top: 2204px; 
+	 position: absolute; 
+	 width: 94px;
+	 height: 94px;
+	 z-index:170;
+} 
+
+ #VectorSmartObject_6 
+{ 
+	 left: 822px; 
+	 top: 2232px; 
+	 position: absolute; 
+	 width: 53px;
+	 height: 38px;
+	 z-index:171;
+} 
+
+ #Forma1_5 
+{ 
+	 left: 843px; 
+	 top: 2208px; 
+	 position: absolute; 
+	 width: 14px;
+	 height: 14px;
+	 z-index:172;
+} 
+
+ #Forma1copy_2 
+{ 
+	 left: 856px; 
+	 top: 2212px; 
+	 position: absolute; 
+	 width: 13px;
+	 height: 13px;
+	 z-index:173;
+} 
+
+ #Forma1copy3_2 
+{ 
+	 left: 830px; 
+	 top: 2212px; 
+	 position: absolute; 
+	 width: 13px;
+	 height: 13px;
+	 z-index:174;
+} 
+
+ #Forma1copy6_5 
+{ 
+	 left: 868px; 
+	 top: 2219px; 
+	 position: absolute; 
+	 width: 13px;
+	 height: 12px;
+	 z-index:175;
+} 
+
+ #Forma1copy6_6 
+{ 
+	 left: 819px; 
+	 top: 2219px; 
+	 position: absolute; 
+	 width: 13px;
+	 height: 12px;
+	 z-index:176;
+} 
+
+ #layer_177 
+{ 
+	 left: 842px; 
+	 top: 2271px; 
+	 position: absolute; 
+	 width: 13px;
+	 height: 13px;
+	 z-index:177;
+} 
+
+ #Shape178_6 
+{ 
+	 left: 1006px; 
+	 top: 2149px; 
+	 position: absolute; 
+	 width: 281px;
+	 height: 269px;
+	 z-index:178;
+} 
+
+ #15MillionTreated_0 
+{ 
+	 left: 1087px; 
+	 top: 2361px; 
+	 position: absolute; 
+	 width: 120px;
+	 height: 35px;
+	 z-index:179;
+} 
+
+ #Shape177_6 
+{ 
+	 left: 1017px; 
+	 top: 2160px; 
+	 position: absolute; 
+	 width: 258px;
+	 height: 182px;
+	 z-index:180;
+} 
+
+ #Capa1_4 
+{ 
+	 left: 1092px; 
+	 top: 2205px; 
+	 position: absolute; 
+	 width: 108px;
+	 height: 92px;
+	 z-index:181;
+} 
+
+ #Shape181_1 
+{ 
+	 left: 114px; 
+	 top: 2451px; 
+	 position: absolute; 
+	 width: 1172px;
+	 height: 118px;
+	 z-index:182;
+} 
+
+ #Shape182_1 
+{ 
+	 left: 149px; 
+	 top: 2485px; 
+	 position: absolute; 
+	 width: 359px;
+	 height: 50px;
+	 z-index:183;
+} 
+
+ #YourNamecopy 
+{ 
+	 left: 168px; 
+	 top: 2505px; 
+	 position: absolute; 
+	 width: 75px;
+	 height: 10px;
+	 z-index:184;
+} 
+
+ #Shape182copy 
+{ 
+	 left: 520px; 
+	 top: 2485px; 
+	 position: absolute; 
+	 width: 359px;
+	 height: 50px;
+	 z-index:185;
+} 
+
+ #PhoneNumber 
+{ 
+	 left: 540px; 
+	 top: 2505px; 
+	 position: absolute; 
+	 width: 100px;
+	 height: 10px;
+	 z-index:186;
+} 
+
+ #Shape182copy2 
+{ 
+	 left: 891px; 
+	 top: 2485px; 
+	 position: absolute; 
+	 width: 359px;
+	 height: 50px;
+	 z-index:187;
+} 
+
+ #SendMessage 
+{ 
+	 left: 997px; 
+	 top: 2504px; 
+	 position: absolute; 
+	 width: 146px;
+	 height: 12px;
+	 z-index:188;
+} 
+
+ #Shape168 
+{ 
+	 left: 113px; 
+	 top: 1596px; 
+	 position: absolute; 
+	 width: 873px;
+	 height: 380px;
+	 z-index:189;
+} 
+
+ #Mymedicalprofessions 
+{ 
+	 left: 154px; 
+	 top: 1686px; 
+	 position: absolute; 
+	 width: 788px;
+	 height: 175px;
+	 z-index:190;
+} 
+
+ #ChairmansMessage 
+{ 
+	 left: 153px; 
+	 top: 1638px; 
+	 position: absolute; 
+	 width: 304px;
+	 height: 29px;
+	 z-index:191;
+} 
+
+ #Shape175 
+{ 
+	 left: 647px; 
+	 top: 1891px; 
+	 position: absolute; 
+	 width: 335px;
+	 height: 5px;
+	 z-index:192;
+} 
+
+ #DrSrikantMorlawar 
+{ 
+	 left: 710px; 
+	 top: 1914px; 
+	 position: absolute; 
+	 width: 203px;
+	 height: 14px;
+	 z-index:193;
+} 
+
+ #ChairmanandManagingD 
+{ 
+	 left: 691px; 
+	 top: 1938px; 
+	 position: absolute; 
+	 width: 241px;
+	 height: 14px;
+	 z-index:194;
+} 
+
+ #Shape147copy5 
+{ 
+	 left: 153px; 
+	 top: 1913px; 
+	 position: absolute; 
+	 width: 157px;
+	 height: 40px;
+	 z-index:195;
+} 
+
+ #ReadMore 
+{ 
+	 left: 193px; 
+	 top: 1929px; 
+	 position: absolute; 
+	 width: 76px;
+	 height: 8px;
+	 z-index:196;
+} 
+
+ #Shape170 
+{ 
+	 left: 1148px; 
+	 top: 1596px; 
+	 position: absolute; 
+	 width: 253px;
+	 height: 380px;
+	 z-index:197;
+} 
+
+ #Layer33 
+{ 
+	 left: 1213px; 
+	 top: 1659px; 
+	 position: absolute; 
+	 width: 187px;
+	 height: 256px;
+	 z-index:198;
+} 
+
+ #Shape174 
+{ 
+	 left: 1014px; 
+	 top: 1651px; 
+	 position: absolute; 
+	 width: 271px;
+	 height: 271px;
+	 z-index:199;
+} 
+
+ #Layer32 
+{ 
+	 left: 1015px; 
+	 top: 1658px; 
+	 position: absolute; 
+	 width: 280px;
+	 height: 261px;
+	 z-index:200;
+} 
+
+ #Shape120 
+{ 
+	 left: -1px; 
+	 top: 1047px; 
+	 position: absolute; 
+	 width: 1402px;
+	 height: 492px;
+	 z-index:201;
+} 
+
+ #Shape157copy3 
+{ 
+	 left: -188px; 
+	 top: 1179px; 
+	 position: absolute; 
+	 width: 264px;
+	 height: 265px;
+	 z-index:202;
+} 
+
+ #Shape157copy4 
+{ 
+	 left: 1323px; 
+	 top: 1179px; 
+	 position: absolute; 
+	 width: 265px;
+	 height: 265px;
+	 z-index:203;
+} 
+
+ #Shape143copy_1 
+{ 
+	 left: 1303px; 
+	 top: 1285px; 
+	 position: absolute; 
+	 width: 55px;
+	 height: 55px;
+	 z-index:204;
+} 
+
+ #Forma1copy4_1 
+{ 
+	 left: 1320px; 
+	 top: 1304px; 
+	 position: absolute; 
+	 width: 20px;
+	 height: 17px;
+	 z-index:205;
+} 
+
+ #Shape143copy2_1 
+{ 
+	 left: 43px; 
+	 top: 1285px; 
+	 position: absolute; 
+	 width: 54px;
+	 height: 55px;
+	 z-index:206;
+} 
+
+ #Forma1copy5_1 
+{ 
+	 left: 60px; 
+	 top: 1304px; 
+	 position: absolute; 
+	 width: 20px;
+	 height: 17px;
+	 z-index:207;
+} 
+
+ #layer_208 
+{ 
+	 left: 474px; 
+	 top: 1233px; 
+	 position: absolute; 
+	 width: 55px;
+	 height: 141px;
+	 z-index:208;
+} 
+
+ #Shape136 
+{ 
+	 left: 465px; 
+	 top: 1340px; 
+	 position: absolute; 
+	 width: 27px;
+	 height: 27px;
+	 z-index:209;
+} 
+
+ #Shape137 
+{ 
+	 left: 472px; 
+	 top: 1347px; 
+	 position: absolute; 
+	 width: 12px;
+	 height: 13px;
+	 z-index:210;
+} 
+
+ #Shape136copy 
+{ 
+	 left: 505px; 
+	 top: 1250px; 
+	 position: absolute; 
+	 width: 27px;
+	 height: 27px;
+	 z-index:211;
+} 
+
+ #Shape137copy 
+{ 
+	 left: 512px; 
+	 top: 1257px; 
+	 position: absolute; 
+	 width: 12px;
+	 height: 13px;
+	 z-index:212;
+} 
+
+ #layer_213 
+{ 
+	 left: 872px; 
+	 top: 1233px; 
+	 position: absolute; 
+	 width: 55px;
+	 height: 141px;
+	 z-index:213;
+} 
+
+ #Shape136_0 
+{ 
+	 left: 909px; 
+	 top: 1340px; 
+	 position: absolute; 
+	 width: 27px;
+	 height: 27px;
+	 z-index:214;
+} 
+
+ #Shape137_0 
+{ 
+	 left: 916px; 
+	 top: 1347px; 
+	 position: absolute; 
+	 width: 12px;
+	 height: 13px;
+	 z-index:215;
+} 
+
+ #Shape136copy_0 
+{ 
+	 left: 869px; 
+	 top: 1250px; 
+	 position: absolute; 
+	 width: 27px;
+	 height: 27px;
+	 z-index:216;
+} 
+
+ #Shape137copy_0 
+{ 
+	 left: 876px; 
+	 top: 1257px; 
+	 position: absolute; 
+	 width: 12px;
+	 height: 13px;
+	 z-index:217;
+} 
+
+ #Shape172 
+{ 
+	 left: 113px; 
+	 top: 1162px; 
+	 position: absolute; 
+	 width: 367px;
+	 height: 299px;
+	 z-index:218;
+} 
+
+ #Thyroiddisorderscanb 
+{ 
+	 left: 139px; 
+	 top: 1357px; 
+	 position: absolute; 
+	 width: 314px;
+	 height: 58px;
+	 z-index:219;
+} 
+
+ #Thyroid 
+{ 
+	 left: 249px; 
+	 top: 1323px; 
+	 position: absolute; 
+	 width: 93px;
+	 height: 14px;
+	 z-index:220;
+} 
+
+ #Shape133 
+{ 
+	 left: 237px; 
+	 top: 1187px; 
+	 position: absolute; 
+	 width: 118px;
+	 height: 118px;
+	 z-index:221;
+} 
+
+ #Forma1_6 
+{ 
+	 left: 269px; 
+	 top: 1215px; 
+	 position: absolute; 
+	 width: 54px;
+	 height: 62px;
+	 z-index:222;
+} 
+
+ #Shape147copy4 
+{ 
+	 left: 218px; 
+	 top: 1440px; 
+	 position: absolute; 
+	 width: 157px;
+	 height: 40px;
+	 z-index:223;
+} 
+
+ #KnowMore 
+{ 
+	 left: 255px; 
+	 top: 1456px; 
+	 position: absolute; 
+	 width: 82px;
+	 height: 8px;
+	 z-index:224;
+} 
+
+ #Shape172_0 
+{ 
+	 left: 517px; 
+	 top: 1162px; 
+	 position: absolute; 
+	 width: 367px;
+	 height: 299px;
+	 z-index:225;
+} 
+
+ #Harddepositsofsaltsa 
+{ 
+	 left: 544px; 
+	 top: 1357px; 
+	 position: absolute; 
+	 width: 312px;
+	 height: 58px;
+	 z-index:226;
+} 
+
+ #KidneyStones 
+{ 
+	 left: 619px; 
+	 top: 1323px; 
+	 position: absolute; 
+	 width: 163px;
+	 height: 14px;
+	 z-index:227;
+} 
+
+ #Shape133_0 
+{ 
+	 left: 641px; 
+	 top: 1187px; 
+	 position: absolute; 
+	 width: 118px;
+	 height: 118px;
+	 z-index:228;
+} 
+
+ #Forma1_7 
+{ 
+	 left: 666px; 
+	 top: 1216px; 
+	 position: absolute; 
+	 width: 68px;
+	 height: 64px;
+	 z-index:229;
+} 
+
+ #Shape147copy4_0 
+{ 
+	 left: 622px; 
+	 top: 1440px; 
+	 position: absolute; 
+	 width: 157px;
+	 height: 40px;
+	 z-index:230;
+} 
+
+ #KnowMore_0 
+{ 
+	 left: 659px; 
+	 top: 1456px; 
+	 position: absolute; 
+	 width: 82px;
+	 height: 8px;
+	 z-index:231;
+} 
+
+ #Shape172_1 
+{ 
+	 left: 920px; 
+	 top: 1162px; 
+	 position: absolute; 
+	 width: 367px;
+	 height: 299px;
+	 z-index:232;
+} 
+
+ #Homeopathytreatmentf 
+{ 
+	 left: 961px; 
+	 top: 1357px; 
+	 position: absolute; 
+	 width: 285px;
+	 height: 57px;
+	 z-index:233;
+} 
+
+ #Arthritis 
+{ 
+	 left: 1049px; 
+	 top: 1323px; 
+	 position: absolute; 
+	 width: 107px;
+	 height: 14px;
+	 z-index:234;
+} 
+
+ #Shape133_1 
+{ 
+	 left: 1044px; 
+	 top: 1187px; 
+	 position: absolute; 
+	 width: 118px;
+	 height: 118px;
+	 z-index:235;
+} 
+
+ #L0001 
+{ 
+	 left: 1075px; 
+	 top: 1218px; 
+	 position: absolute; 
+	 width: 57px;
+	 height: 56px;
+	 z-index:236;
+} 
+
+ #Shape147copy4_1 
+{ 
+	 left: 1025px; 
+	 top: 1440px; 
+	 position: absolute; 
+	 width: 157px;
+	 height: 40px;
+	 z-index:237;
+} 
+
+ #KnowMore_1 
+{ 
+	 left: 1062px; 
+	 top: 1456px; 
+	 position: absolute; 
+	 width: 82px;
+	 height: 8px;
+	 z-index:238;
+} 
+
+ #OurTreatments 
+{ 
+	 left: 582px; 
+	 top: 1109px; 
+	 position: absolute; 
+	 width: 234px;
+	 height: 23px;
+	 z-index:239;
+} 
+
+ #Shape23 
+{ 
+	 left: -1px; 
+	 top: 123px; 
+	 position: absolute; 
+	 width: 1402px;
+	 height: 503px;
+	 z-index:240;
+} 
+
+ #Layer30 
+{ 
+	 left: 0px; 
+	 top: 124px; 
+	 position: absolute; 
+	 width: 1400px;
+	 height: 500px;
+	 z-index:241;
+} 
+
+ #Layer13 
+{ 
+	 left: 0px; 
+	 top: 624px; 
+	 position: absolute; 
+	 width: 1400px;
+	 height: 421px;
+	 z-index:242;
+} 
+
+ #Layer14 
+{ 
+	 left: 0px; 
+	 top: 629px; 
+	 position: absolute; 
+	 width: 1400px;
+	 height: 4px;
+	 z-index:243;
+} 
+
+ #Layer33copy 
+{ 
+	 left: 0px; 
+	 top: 1045px; 
+	 position: absolute; 
+	 width: 1400px;
+	 height: 4px;
+	 z-index:244;
+} 
+
+ #Homeopathyisthemostt 
+{ 
+	 left: 310px; 
+	 top: 782px; 
+	 position: absolute; 
+	 width: 575px;
+	 height: 83px;
+	 z-index:245;
+} 
+
+ #HomeocareInternation_0 
+{ 
+	 left: 114px; 
+	 top: 894px; 
+	 position: absolute; 
+	 width: 771px;
+	 height: 83px;
+	 z-index:246;
+} 
+
+ #WelcometoHomeocareIn 
+{ 
+	 left: 308px; 
+	 top: 701px; 
+	 position: absolute; 
+	 width: 379px;
+	 height: 56px;
+	 z-index:247;
+} 
+
+ #Shape116 
+{ 
+	 left: 113px; 
+	 top: 699px; 
+	 position: absolute; 
+	 width: 164px;
+	 height: 164px;
+	 z-index:248;
+} 
+
+ #Layer31 
+{ 
+	 left: 138px; 
+	 top: 724px; 
+	 position: absolute; 
+	 width: 116px;
+	 height: 116px;
+	 z-index:249;
+} 
+
+ #Layer61copy9 
+{ 
+	 left: 951px; 
+	 top: 1018px; 
+	 position: absolute; 
+	 width: 312px;
+	 height: 23px;
+	 z-index:250;
+} 
+
+ #Layer18 
+{ 
+	 left: 950px; 
+	 top: 1018px; 
+	 position: absolute; 
+	 width: 312px;
+	 height: 1px;
+	 z-index:251;
+} 
+
+ #Layer21copy 
+{ 
+	 left: 975px; 
+	 top: 606px; 
+	 position: absolute; 
+	 width: 310px;
+	 height: 388px;
+	 z-index:252;
+} 
+
+ #Layer17 
+{ 
+	 left: 950px; 
+	 top: 629px; 
+	 position: absolute; 
+	 width: 312px;
+	 height: 389px;
+	 z-index:253;
+} 
+
+ #BookanAppointment 
+{ 
+	 left: 980px; 
+	 top: 657px; 
+	 position: absolute; 
+	 width: 252px;
+	 height: 16px;
+	 z-index:254;
+} 
+
+ #Shape117 
+{ 
+	 left: 978px; 
+	 top: 692px; 
+	 position: absolute; 
+	 width: 255px;
+	 height: 50px;
+	 z-index:255;
+} 
+
+ #YourName 
+{ 
+	 left: 998px; 
+	 top: 712px; 
+	 position: absolute; 
+	 width: 75px;
+	 height: 10px;
+	 z-index:256;
+} 
+
+ #Shape117copy 
+{ 
+	 left: 978px; 
+	 top: 746px; 
+	 position: absolute; 
+	 width: 255px;
+	 height: 50px;
+	 z-index:257;
+} 
+
+ #YourEmail 
+{ 
+	 left: 998px; 
+	 top: 766px; 
+	 position: absolute; 
+	 width: 72px;
+	 height: 10px;
+	 z-index:258;
+} 
+
+ #Shape117copy2 
+{ 
+	 left: 978px; 
+	 top: 800px; 
+	 position: absolute; 
+	 width: 255px;
+	 height: 50px;
+	 z-index:259;
+} 
+
+ #PhoneNumber_0 
+{ 
+	 left: 999px; 
+	 top: 820px; 
+	 position: absolute; 
+	 width: 100px;
+	 height: 10px;
+	 z-index:260;
+} 
+
+ #Shape119 
+{ 
+	 left: 978px; 
+	 top: 854px; 
+	 position: absolute; 
+	 width: 255px;
+	 height: 84px;
+	 z-index:261;
+} 
+
+ #Message 
+{ 
+	 left: 999px; 
+	 top: 874px; 
+	 position: absolute; 
+	 width: 59px;
+	 height: 13px;
+	 z-index:262;
+} 
+
+ #Shape118 
+{ 
+	 left: 948px; 
+	 top: 964px; 
+	 position: absolute; 
+	 width: 315px;
+	 height: 55px;
+	 z-index:263;
+} 
+
+ #SendMessage_0 
+{ 
+	 left: 1035px; 
+	 top: 986px; 
+	 position: absolute; 
+	 width: 142px;
+	 height: 13px;
+	 z-index:264;
+} 
+
+ #Shape112 
+{ 
+	 left: -4px; 
+	 top: 32px; 
+	 position: absolute; 
+	 width: 1408px;
+	 height: 93px;
+	 z-index:265;
+} 
+
+ #Layer21 
+{ 
+	 left: 115px; 
+	 top: 43px; 
+	 position: absolute; 
+	 width: 260px;
+	 height: 71px;
+	 z-index:266;
+} 
+
+ #Shape14 
+{ 
+	 left: -1px; 
+	 top: -2px; 
+	 position: absolute; 
+	 width: 1402px;
+	 height: 37px;
+	 z-index:267;
+} 
+
+ #Layer23 
+{ 
+	 left: 75px; 
+	 top: 0px; 
+	 position: absolute; 
+	 width: 253px;
+	 height: 29px;
+	 z-index:268;
+} 
+
+ #Shape115 
+{ 
+	 left: -1px; 
+	 top: 18px; 
+	 position: absolute; 
+	 width: 78px;
+	 height: 3px;
+	 z-index:269;
+} 
+
+ #Shape115copy 
+{ 
+	 left: 326px; 
+	 top: 18px; 
+	 position: absolute; 
+	 width: 79px;
+	 height: 3px;
+	 z-index:270;
+} 
+
+ #VectorSmartObject_7 
+{ 
+	 left: 279px; 
+	 top: 1px; 
+	 position: absolute; 
+	 width: 183px;
+	 height: 31px;
+	 z-index:271;
+} 
+
+ #AboutUsMedia 
+{ 
+	 left: 575px; 
+	 top: 72px; 
+	 position: absolute; 
+	 width: 710px;
+	 height: 12px;
+	 z-index:272;
+} 
+
+ #Forma1_8 
+{ 
+	 left: 527px; 
+	 top: 69px; 
+	 position: absolute; 
+	 width: 20px;
+	 height: 18px;
+	 z-index:273;
+} 
+
+ #Shape1copy8 
+{ 
+	 left: 590px; 
+	 top: 7px; 
+	 position: absolute; 
+	 width: 19px;
+	 height: 19px;
+	 z-index:274;
+} 
+
+ #TOllFree18001022202 
+{ 
+	 left: 614px; 
+	 top: 11px; 
+	 position: absolute; 
+	 width: 202px;
+	 height: 11px;
+	 z-index:275;
+} 
+
+ #onlinehomeocarein 
+{ 
+	 left: 865px; 
+	 top: 10px; 
+	 position: absolute; 
+	 width: 153px;
+	 height: 14px;
+	 z-index:276;
+} 
+
+ #Shape1_0 
+{ 
+	 left: 839px; 
+	 top: 8px; 
+	 position: absolute; 
+	 width: 20px;
+	 height: 17px;
+	 z-index:277;
+} 
+
+ #Shape114 
+{ 
+	 left: 1033px; 
+	 top: -2px; 
+	 position: absolute; 
+	 width: 3px;
+	 height: 37px;
+	 z-index:278;
+} 
+
+ #ConnectWithUs_0 
+{ 
+	 left: 1049px; 
+	 top: 13px; 
+	 position: absolute; 
+	 width: 115px;
+	 height: 8px;
+	 z-index:279;
+} 
+
+ #Shape113_0 
+{ 
+	 left: 1171px; 
+	 top: 2px; 
+	 position: absolute; 
+	 width: 29px;
+	 height: 29px;
+	 z-index:280;
+} 
+
+ #Forma1_9 
+{ 
+	 left: 1181px; 
+	 top: 8px; 
+	 position: absolute; 
+	 width: 9px;
+	 height: 16px;
+	 z-index:281;
+} 
+
+ #Shape113copy_0 
+{ 
+	 left: 1200px; 
+	 top: 2px; 
+	 position: absolute; 
+	 width: 29px;
+	 height: 29px;
+	 z-index:282;
+} 
+
+ #Forma1_10 
+{ 
+	 left: 1206px; 
+	 top: 11px; 
+	 position: absolute; 
+	 width: 17px;
+	 height: 13px;
+	 z-index:283;
+} 
+
+ #Shape113copy2_0 
+{ 
+	 left: 1229px; 
+	 top: 2px; 
+	 position: absolute; 
+	 width: 29px;
+	 height: 29px;
+	 z-index:284;
+} 
+
+ #Forma1copy2_0 
+{ 
+	 left: 1235px; 
+	 top: 10px; 
+	 position: absolute; 
+	 width: 17px;
+	 height: 13px;
+	 z-index:285;
+} 
+
+ #Shape113copy3_0 
+{ 
+	 left: 1258px; 
+	 top: 2px; 
+	 position: absolute; 
+	 width: 29px;
+	 height: 29px;
+	 z-index:286;
+} 
+
+ #Forma1_11 
+{ 
+	 left: 1265px; 
+	 top: 8px; 
+	 position: absolute; 
+	 width: 15px;
+	 height: 17px;
+	 z-index:287;
+} 
